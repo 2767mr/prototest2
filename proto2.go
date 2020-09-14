@@ -1,5 +1,7 @@
 package prototest2
 
-func foo() {
+import "github.com/2767mr/prototest3"
 
+func foo() {
+	prototest3.Bar()
 }
