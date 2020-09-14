@@ -1,5 +1,6 @@
 package sub
 
-func test() {
+//Test is empty.
+func Test() {
 
 }
